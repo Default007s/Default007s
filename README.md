@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Jalal
 - 👀 I’m interested in Front end web development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 You can reach me through ahmedjalal0322@gmail.com
 
